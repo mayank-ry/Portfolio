@@ -33,5 +33,3 @@ portfolio/
 │── README.md
 
 
-
-Do you want me to also include **GitHub shields (badges)** like `Made with HTML/CSS/JS`, `Portfolio`, etc., at the top for a more “pro” look?
